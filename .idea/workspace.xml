@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1977069a-2a21-4930-bbac-edc3cebb11f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 2/DynamicArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/GridChallenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/PrimeDates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/SherlockAndArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/CounterGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/RecursiveDigitSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/SumVSXOR.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664146115755</updated>
       <workItem from="1664146117370" duration="33000" />
-      <workItem from="1664401233886" duration="7516000" />
+      <workItem from="1664401233886" duration="11239000" />
     </task>
     <servers />
   </component>
