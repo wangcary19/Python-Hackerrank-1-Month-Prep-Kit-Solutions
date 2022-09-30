@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1977069a-2a21-4930-bbac-edc3cebb11f7" name="Changes" comment="" />
+    <list default="true" id="1977069a-2a21-4930-bbac-edc3cebb11f7" name="Changes" comment="dd">
+      <change afterPath="$PROJECT_DIR$/Week 3/NewYearChaos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +46,16 @@
       <updated>1664146115755</updated>
       <workItem from="1664146117370" duration="33000" />
       <workItem from="1664401233886" duration="11239000" />
-      <workItem from="1664556851834" duration="441000" />
+      <workItem from="1664556851834" duration="1731000" />
     </task>
+    <task id="LOCAL-00001" summary="dd">
+      <created>1664557300786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664557300786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,6 +71,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$Drawing_Book.coverage" NAME="Drawing Book Coverage Results" MODIFIED="1664146142581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
