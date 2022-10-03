@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1977069a-2a21-4930-bbac-edc3cebb11f7" name="Changes" comment="dd">
-      <change afterPath="$PROJECT_DIR$/Week 3/SherlockAndValidString.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 3/Bomberman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 3/Bomberman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
       <workItem from="1664146117370" duration="33000" />
       <workItem from="1664401233886" duration="11239000" />
       <workItem from="1664556851834" duration="7405000" />
+      <workItem from="1664738248816" duration="1574000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1664557300786</created>
