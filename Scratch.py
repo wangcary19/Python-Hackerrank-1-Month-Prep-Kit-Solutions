@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-import numpy as pd
-import pandas as np
-=======
 test_ranked = [100, 100, 50, 40, 40, 20, 10]
 test_player = [5, 25, 50, 120]
 def climb(ranked, player):
@@ -37,5 +33,4 @@ def climb(ranked, player):
 
 
 climb(test_ranked, test_player)
->>>>>>> Stashed changes
 
