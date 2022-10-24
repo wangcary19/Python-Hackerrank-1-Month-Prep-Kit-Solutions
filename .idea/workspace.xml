@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1977069a-2a21-4930-bbac-edc3cebb11f7" name="Changes" comment="dd">
+      <change afterPath="$PROJECT_DIR$/passwordchecker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,11 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/carywang/PycharmProjects/Python-Hackerrank-1-Month-Prep-Kit-Solutions&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +54,10 @@
       <workItem from="1664401233886" duration="11239000" />
       <workItem from="1664556851834" duration="13789000" />
       <workItem from="1665437747227" duration="3181000" />
+      <workItem from="1666481133173" duration="1405000" />
+      <workItem from="1666569442654" duration="1716000" />
+      <workItem from="1666584177236" duration="101000" />
+      <workItem from="1666643173254" duration="4232000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1664557300786</created>
@@ -77,8 +88,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$Scratch.coverage" NAME="Scratch Coverage Results" MODIFIED="1664754963576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$Scratch.coverage" NAME="Scratch Coverage Results" MODIFIED="1666646839284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$Drawing_Book.coverage" NAME="Drawing Book Coverage Results" MODIFIED="1664146142581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$Scratch2.coverage" NAME="Scratch2 Coverage Results" MODIFIED="1666481427869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$Pak_Assign4_Problem2.coverage" NAME="Pak_Assign4_Problem2 Coverage Results" MODIFIED="1664500812927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$SumVSXOR.coverage" NAME="SumVSXOR Coverage Results" MODIFIED="1664556919320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/Python_Hackerrank_1_Month_Prep_Kit_Solutions$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1665440332437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
