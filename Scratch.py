@@ -101,7 +101,6 @@ def password_checker():
         print("VALID PASSWORD.")
     else:
         print("INVALID PASSWORD.  PASSWORD DOESN'T HAVE REQUISITE ELEMENTS.")
-    return 0
 
 
 password_checker()
