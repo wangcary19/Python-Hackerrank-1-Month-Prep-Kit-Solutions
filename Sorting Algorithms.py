@@ -1,4 +1,4 @@
-# insertion sort: find the minimum in unsorted and swap down until corect
+# insertion sort: find the minimum in unsorted and swap down until correct
 
 def ins_sort(arr):
     for x in range(0, len(arr) - 1):
