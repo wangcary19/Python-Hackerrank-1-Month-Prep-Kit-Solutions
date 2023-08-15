@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1977069a-2a21-4930-bbac-edc3cebb11f7" name="Changes" comment="dd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting Algorithms.py" afterDir="false" />
-    </list>
+    <list default="true" id="1977069a-2a21-4930-bbac-edc3cebb11f7" name="Changes" comment="dd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +74,7 @@
       <workItem from="1670972798917" duration="4183000" />
       <workItem from="1671120044525" duration="1856000" />
       <workItem from="1690300263832" duration="2516000" />
+      <workItem from="1692066619090" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1664557300786</created>
